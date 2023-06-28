@@ -5,7 +5,7 @@ I'm a computer science graduate with passions for learning, innovating, and grow
 * Website design and implementation of ideas
 * CompTIA A+
 * AWS Certified Cloud Practicioner
-* Udacity Intro to Information Security
+* [Udacity Intro to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459)
 * [Professor Messer’s CompTIA N10-008 Network+ Course](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/)
 * Python skills
 * C# / .NET
